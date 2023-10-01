@@ -1,5 +1,8 @@
 Hello world CS 362!
 
+<<<<<<< HEAD
 Add in some extra text here.
 
-This was changed on main branch.
+=======
+This was changed on branch_a
+>>>>>>> branch_a
